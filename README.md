@@ -7,3 +7,4 @@ I threw this tool togetehr to help us on the last stretch
 4) use the tool `python3 md_converter.py document.md`
 5) Paste the content of the .txt file that has been generated into the related .tsx file
    
+Please note that i am relying on the MD editor to do char conversion (for all the greek letters)
