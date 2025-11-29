@@ -229,7 +229,6 @@ def main():
                 print(f"Error writing fallback file: {e}")
     else:
         print("Conversion failed")
-    print("image conversion is not working, i'm kinda fed up with it so we'll do manually")
 
 if __name__ == "__main__":
     main()
